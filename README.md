@@ -8,7 +8,7 @@ A sample laravel project in form of a simple blog.
 
 ## Getting Started - Live
 
-* [Deploying Laravel](https://www.youtube.com/watch?v=Nwj9iVq0g5Y)
+* [Deploying Laravel](https://www.youtube.com/watch?v=6g8G3YQtQt4)
 - Disregard all files outside of testproject/laravel (As they are for the local installation)
 - Create a new database.
 - Put new database details in the .env file within the site root.
